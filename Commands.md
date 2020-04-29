@@ -1,3 +1,3 @@
 # Namespaces
-   # Get a namespace
+   ## Get a namespace
 
